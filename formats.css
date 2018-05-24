@@ -1,20 +1,33 @@
 h1.title {
-	color: DarkCyan;}
+	color: DarkCyan;
+	text-indent: 5px;}
 	
 h1 {
-	color: pink;}
+	color: pink;
+	text-indent: 5px;}
 	
 h2 {
-	color: orange;}
+	color: orange;
+	text-indent: 5px;}
 
 p {
-	color: purple;}
+	color: purple;
+	text-indent: 15px;}
 	
+p.imageAdjacent{
+text-indent: 20px;}
+
 li {
-	color: green;}
+	color: green;
+	text-indent: 15px;}
 	
 dt {
-	color: gold;}
+	color: gold;
+	text-indent: 15px;}
 	
 dd {
-	color: red;}
+	color: red;
+	text-indent: 15px;}
+	
+form{
+	text-indent: 20px;}
